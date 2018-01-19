@@ -1,4 +1,4 @@
 <?php
 
-	echo "Primeiro programa em PHP"
+	echo "Primeiro programa em PHP";
 ?>
